@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 00:59:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 01:10:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -100,6 +100,7 @@
 - [2018-10-08-【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect) 
 - [2018-09-29-【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect) 
 - [2018-09-22-【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect) 
+- [2022-01-03-从-setState-聊到-React-性能优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593813&idx=2&sn=d507d6db5047f166d779f66381b2b01b&chksm=8022cb94b75542820c5805e639220a349d69b86de99b364a90892f81a5438432506949ce6f81#rd) 
 - [2021-06-25-一名-Vue-程序员总结的-React-基础](https://www.ershicimi.com/p/a22ecda73a91419cda84396c66c32ca1) 
 - [2021-06-18-React-18自学指南，高级前端必备](https://www.ershicimi.com/p/ca7044ab60a4c6c4c2dbb941172b9eab) 
 - [2021-06-15-React-性能优化-：包括原理、技巧、Demo、工具使用](https://www.ershicimi.com/p/5802e89d8c845a7c2d0ac45399b390ca) 
@@ -214,6 +215,7 @@
 - [2018-10-13-当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect) 
 - [2018-09-25-React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect) 
 - [2018-09-21-重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect) 
+- [2021-12-26-React-Native-新架构是如何工作的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512408&idx=1&sn=e9315cdbb59339a399ed1a9eb6e5ecbc&chksm=f952041bce258d0d5fa2fb2acdd4f3fae6696e38bc31cbd6e35ebd8706a6058147f5ddd38cd0#rd) 
 - [2021-05-26-这几天，快被-React-Hooks-搞疯了-|-极客时间](https://www.ershicimi.com/p/a594dc715a577085b29430c7d95e2a76) 
 - [2021-05-21-历时-2-年、投入-100+-工程师，Coinbase-全面迁移到-React-Native](https://www.ershicimi.com/p/bc0441bd6fab0de715e1634f4b207132) 
 - [2021-04-28-美团做-React-Native-性能优化的三个关键点](https://www.ershicimi.com/p/c34e679e6afe09423aab9a7e63d60662) 

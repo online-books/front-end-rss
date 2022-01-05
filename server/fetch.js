@@ -4,8 +4,11 @@ const moment = require('moment')
 
 const utils = require('./utils')
 
+require('dotenv').config()
+
 const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssItem, cb){
-  let rssArray = rssItem.rss
+  const envLink = process.env['RSS_' + rssItem.id];
+  let rssArray = envLink || rssItem.rss
   let done = false;
 
   if(typeof rssArray === 'string'){

@@ -8,6 +8,7 @@
     "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
   },
   {
+    "id": "FeZaoDuKe",
     "title": "前端早读课",
     "rss": [
       "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss",
@@ -16,6 +17,7 @@
     ]
   },
   {
+    "id": "FrontDev",
     "title": "前端大全",
     "rss": [
       "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss",
@@ -24,6 +26,7 @@
     ]
   },
   {
+    "id": "frontshow",
     "title": "前端之巅",
     "rss": [
       "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss",

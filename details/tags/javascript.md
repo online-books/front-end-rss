@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 00:59:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 01:10:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -182,6 +182,9 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2022-01-05-面试官：为什么要加0秒的定时器？Promise-异步怎么处理？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593923&idx=1&sn=2010a2bcbd97da81acfb99a4ffccb601&chksm=8022cb02b755421489bd5071849e3928dd5a9c47d2e9bc127f1efd78cd43531d32108cccc92d#rd) 
+- [2022-01-04-面试官问-async、await-函数原理是在问什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593842&idx=3&sn=e80f2e453219126aa91ba00716dec4b8&chksm=8022cbb3b75542a51973a9d72e49ef50c569565361d05c307e6a0fcf318255f4ef0d182ca383#rd) 
+- [2022-01-02-就因为这三个知识点，我彻底学废了“正则表达式”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593792&idx=1&sn=3e7135683cad3910ac6381fe8e72729f&chksm=8022cb81b75542976b677380f91ac8562ac16ebefcefb82cda9c0474670cd5e534b574bc1c42#rd) 
 - [2021-06-29-微信-H5-页面前端开发，大多数人都会遇到的几个兼容性坑](https://www.ershicimi.com/p/efdb3dea2c523a1ca25c583242e9660d) 
 - [2021-06-28-7-个关于-"this"-面试题，你能回答上来吗？](https://www.ershicimi.com/p/a852fe769b45ec33c495f808e953e812) 
 - [2021-06-23-JS-简洁代码编写与技巧指北](https://www.ershicimi.com/p/17790b4056a6b8508d17576cc695fe50) 
