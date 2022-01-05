@@ -1,8 +1,6 @@
 [
   {
-    "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml",
     "title": "Node-Weekly",
-    "link": "https://nodeweekly.com/",
     "items": [
       {
         "title": "Looking back at Node.js in 2021",
@@ -27,9 +25,7 @@
     ]
   },
   {
-    "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml",
     "title": "JavaScript-Weekly",
-    "link": "https://javascriptweekly.com/",
     "items": [
       {
         "title": "The JavaScript 2021 megamix",
@@ -54,9 +50,7 @@
     ]
   },
   {
-    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/82f12a99-46d1-4c02-aae9-e8aa4ccc4a84.xml",
     "title": "前端早读课",
-    "link": "https://werss.app?name=%E5%89%8D%E7%AB%AF%E6%97%A9%E8%AF%BB%E8%AF%BE",
     "items": [
       {
         "title": "【第2502期】DevTools 实现原理与性能分析实战",
@@ -7796,9 +7790,7 @@
     ]
   },
   {
-    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/a119a8df-0d7a-4130-92b4-7f3fff825dfa.xml",
     "title": "前端大全",
-    "link": "https://werss.app?name=%E5%89%8D%E7%AB%AF%E5%A4%A7%E5%85%A8",
     "items": [
       {
         "title": "2021 年从零开发前端项目指南",
@@ -16968,9 +16960,7 @@
     ]
   },
   {
-    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/18efebac-883d-40fb-8de3-2895123fad13.xml",
     "title": "前端之巅",
-    "link": "https://werss.app?name=%E5%89%8D%E7%AB%AF%E4%B9%8B%E5%B7%85",
     "items": [
       {
         "title": "GMTC 最新分享：不用 WebAssembly 也能实现 Web 虚拟机保护",
@@ -24090,9 +24080,7 @@
     ]
   },
   {
-    "rss": "https://fed.taobao.org/atom.xml",
     "title": "Taobao-FED-|-淘宝前端团队",
-    "link": "https://fed.taobao.org",
     "items": [
       {
         "title": "VS Code 是如何优化启动性能的？",
@@ -24627,9 +24615,7 @@
     ]
   },
   {
-    "rss": "https://www.zhangxinxu.com/wordpress/feed/",
     "title": "张鑫旭-鑫空间-鑫生活",
-    "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
         "title": "JS 标签模板（Tagged templates）什么时候使用？",
@@ -25684,9 +25670,7 @@
     ]
   },
   {
-    "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
-    "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
         "title": "科技爱好者周刊（第 190 期）：产品化思维",
@@ -27021,9 +27005,7 @@
     ]
   },
   {
-    "rss": "http://www.yyyweb.com/feed",
     "title": "前端里",
-    "link": "http://www.yyyweb.com",
     "items": [
       {
         "title": "聊聊我关于 Web 未来发展趋势的看法",
@@ -27473,9 +27455,7 @@
     ]
   },
   {
-    "rss": "http://jdc.jd.com/feed",
     "title": "JDC-|-京东设计中心",
-    "link": "https://jdc.jd.com",
     "items": [
       {
         "title": "NutUI CLI源码解析",
@@ -27625,9 +27605,7 @@
     ]
   },
   {
-    "rss": "https://aotu.io/atom.xml",
     "title": "Aotu-|-凹凸实验室",
-    "link": "/atom.xml",
     "items": [
       {
         "title": "大规格文件的上传优化",
