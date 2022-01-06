@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-06 01:54:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 18:00:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -10,6 +10,7 @@
 - [2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570) 
 - [2021-12-10-Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568) 
 - [2021-12-03-Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567) 
+- [2022-01-06-【开源】北汽华夏出行自研组件库《Essential》开源啦！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252008&idx=2&sn=b322f1c82aba92bba8c40fdcb946bb6f&chksm=bd493cac8a3eb5ba3520d49b6d5940fe69f2e5d1a3ccc99ce68a746f64745c9bde23439a81a9#rd) 
 - [2021-06-28-【第2320期】JavaScript代码整洁之道-复杂判断](https://www.ershicimi.com/p/fee01a30514191d70b0fc6d9ddf58fc0) 
 - [2021-06-26-【第2318期】业务中的前端组件化体系](https://www.ershicimi.com/p/627ed3b21b699f1a98823f80ce719ac3) 
 - [2021-06-25-【第2317期】Docgeni，开箱即用的-Angular-组件文档工具](https://www.ershicimi.com/p/0d08c65b74b57a7cb517270a05bf29d7) 
