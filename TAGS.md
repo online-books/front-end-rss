@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-06 18:00:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 12:00:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -722,6 +722,7 @@
 
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
 - [【JavaScript-Weekly】Array.prototype.groupBy](https://javascriptweekly.com/issues/569)
+- [【前端早读课】【第2504期】前端质量提升利器-马可代码覆盖率平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252043&idx=1&sn=37b1db088b121c3ada6d33b41b5fdf4a&chksm=bd493ccf8a3eb5d96dceb9c3eb1e1cae92bedc46c889a1012306d794299dcc85a99dd404c4b1#rd)
 - [【前端早读课】【第2503期】Deco编辑器开放性技术架构解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252008&idx=1&sn=de6398b3e493f8d186014b3abb681e49&chksm=bd493cac8a3eb5badbdc828b02dc9042db1c659de9e51932151598630a3f091fc711a3a95586#rd)
 - [【前端早读课】【第2501期】从实现原理看低代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651251979&idx=1&sn=4ce194b3db6e56a6c928d472ca9fbb8a&chksm=bd493c8f8a3eb5995cc2f2a8519b7cb4cda95aeaf947ba8d63a8216bf926a6e57688ca4dff93#rd)
 - [【前端早读课】【第2500期】2021年在Web领域有哪些关键进展？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651251940&idx=1&sn=fa452192b135a53d5fdfde17d2c15750&chksm=bd493d608a3eb47663119d6f7bc07a2693ffe3fb41350da6ab7bce75f137a9ca57e3e3317ee9#rd)
@@ -739,7 +740,6 @@
 - [【前端早读课】谷歌AMP已死!-AMP页面在谷歌搜索中不再得到优惠待遇](https://www.ershicimi.com/p/43e7d4470576b1b43e50af12fc1d33c1)
 - [【前端早读课】【第2299期】iconfont支持全新的彩色字体图标](https://www.ershicimi.com/p/af94329a15c25b4facd5ee6f354d3389)
 - [【前端早读课】【第2298期】云凤蝶低代码之路](https://www.ershicimi.com/p/8f35b4f7d8e816d6145edc331f10d606)
-- [【前端早读课】【第2289期】Emoji的奥秘](https://www.ershicimi.com/p/f12f06786b9ea93917e37edbaf3b9019)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

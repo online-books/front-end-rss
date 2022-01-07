@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-06 18:00:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-07 12:00:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -158,6 +158,7 @@
 </summary>
 
 
+- [【前端早读课】2022-01-07-【第2504期】前端质量提升利器-马可代码覆盖率平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252043&idx=1&sn=37b1db088b121c3ada6d33b41b5fdf4a&chksm=bd493ccf8a3eb5d96dceb9c3eb1e1cae92bedc46c889a1012306d794299dcc85a99dd404c4b1#rd) 
 - [【前端早读课】2022-01-06-【开源】北汽华夏出行自研组件库《Essential》开源啦！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252008&idx=2&sn=b322f1c82aba92bba8c40fdcb946bb6f&chksm=bd493cac8a3eb5ba3520d49b6d5940fe69f2e5d1a3ccc99ce68a746f64745c9bde23439a81a9#rd) 
 - [【前端早读课】2022-01-06-【第2503期】Deco编辑器开放性技术架构解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252008&idx=1&sn=de6398b3e493f8d186014b3abb681e49&chksm=bd493cac8a3eb5badbdc828b02dc9042db1c659de9e51932151598630a3f091fc711a3a95586#rd) 
 - [【前端早读课】2022-01-05-【第2502期】DevTools-实现原理与性能分析实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651251980&idx=1&sn=fbdde9ace944f47dd31930d574b508eb&chksm=bd493c888a3eb59eadde0a89194ed56876dba87a85dcb2e0aeb68fa5063ab805bfb59b5eaed5#rd) 
@@ -175,6 +176,7 @@
 - [【前端大全】2022-01-02-使用-resize-实现强大的图片拖拽切换预览功能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593792&idx=2&sn=15264ba363ee234548c30aae886d00e5&chksm=8022cb81b75542972f70fa90bd948563435d7201902a42a95ad2760a0e41a0ac0fd85b8f784f#rd) 
 - [【前端大全】2022-01-02-就因为这三个知识点，我彻底学废了“正则表达式”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593792&idx=1&sn=3e7135683cad3910ac6381fe8e72729f&chksm=8022cb81b75542976b677380f91ac8562ac16ebefcefb82cda9c0474670cd5e534b574bc1c42#rd) 
 - [【前端之巅】2022-01-05-GMTC-最新分享：不用-WebAssembly-也能实现-Web-虚拟机保护](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512544&idx=1&sn=48e4e8cc58afd2e726a484d2c2cffa07&chksm=f95204a3ce258db5b8dd207ac1f39d2ead5776f386983f7748f2fafa2afbed0911903390633c#rd) 
+- [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
